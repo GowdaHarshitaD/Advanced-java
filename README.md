@@ -17,4 +17,4 @@ lab programs
 ##CapitalizeWordsoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CapitalizeWords.png
 ##CheckNullOrEmptyoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNullOrEmpty.png
 ##CheckNumericoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNumeric.png
-
+##CountSubStringoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CountSubstring.png
