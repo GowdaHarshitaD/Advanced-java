@@ -29,6 +29,6 @@ lab programs
 ##HelloSwingoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/HelloSwing.png
 ##ImageButtonDemooutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/ImageButtonDemo.png
 ##CMYTabbedPaneoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CMYTabbedPane.png
-
+##CouontryCapitalDemooutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CountryCapitalDemo.png
 
 
