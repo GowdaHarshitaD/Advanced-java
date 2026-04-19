@@ -22,4 +22,5 @@ lab programs
 ##RandomStringGeneratoroutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/RandomStringGenerator.png
 ##RemoveWhitespaceoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/RemoveWhitespace.png
 ##everseStringoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/everseString.png
-##StringOperationsDemooutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringOperations.png
+##StringOperationsoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringOperations.png
+##TruncatStringoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/TruncateString.png
