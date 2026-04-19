@@ -14,7 +14,7 @@ lab programs
 ##p10output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p10.png
 ##StringOperationsDemooutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringOperationsDemo.png
 ##StringPerformanceTestoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringPerformanceTest.png
-##CapitalizeWords:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CapitalizeWords.png
-##CheckNullOrEmpty:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNullOrEmpty.png
-
+##CapitalizeWordsoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CapitalizeWords.png
+##CheckNullOrEmptyoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNullOrEmpty.png
+##CheckNumericoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNumeric.png
 
