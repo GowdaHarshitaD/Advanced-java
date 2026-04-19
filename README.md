@@ -15,4 +15,6 @@ lab programs
 ##StringOperationsDemooutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringOperationsDemo.png
 ##StringPerformanceTestoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringPerformanceTest.png
 ##CapitalizeWords:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CapitalizeWords.png
+##CheckNullOrEmpty:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNullOrEmpty.png
+
 
