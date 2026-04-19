@@ -12,3 +12,4 @@ lab programs
 ##p8output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p8.png
 ##p9output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p9.png
 ##p10output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p10.png
+##StringOperationsDemooutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/StringOperationsDemo.png
