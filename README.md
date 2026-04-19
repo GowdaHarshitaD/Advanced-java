@@ -11,3 +11,4 @@ lab programs
 ##p7output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p6.png
 ##p8output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p8.png
 ##p9output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p9.png
+##p10output:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/p10.png
