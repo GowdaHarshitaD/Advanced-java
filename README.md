@@ -19,4 +19,6 @@ lab programs
 ##CheckNumericoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CheckNumeric.png
 ##CountSubStringoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/CountSubstring.png
 ##PalindromeCheckoutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/PalindromeCheck.png
+##RandomStringGeneratoroutput:https://github.com/GowdaHarshitaD/Advanced-java/blob/main/RandomStringGenerator.png
+
 
