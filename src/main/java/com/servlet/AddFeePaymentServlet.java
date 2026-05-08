@@ -25,8 +25,12 @@ public class AddFeePaymentServlet extends HttpServlet {
 
         // 🟢 2. CONVERT DATA TYPES
         Date paymentDate = Date.valueOf(paymentDateStr);
-        double amount = Double.parseDouble(amountStr);
+        double amount = Double.parseDouble(request.getParameter("amount"));
 
+        if(amount <= 0){
+            response.getWriter().println("❌ Amount must be positive!");
+            return;
+        }
         // 🟢 3. SET TO MODEL OBJECT
         FeePayment p = new FeePayment();
         p.setStudentId(studentId);
@@ -43,6 +47,5 @@ public class AddFeePaymentServlet extends HttpServlet {
         System.out.println("Rows inserted = " + result);
 
         // 🟢 5. REDIRECT TO DISPLAY PAGE (IMPORTANT STEP)
-        response.sendRedirect("feepaymentdisplay.jsp");
-    }
+        response.sendRedirect("feepaymentdisplay.jsp?msg=success");    }
 }
